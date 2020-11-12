@@ -1,0 +1,24 @@
+{
+  "name": "ghdid",
+  "version": "1.0.0",
+  "description": "Package of GHDID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredolopez80/ghdid.git"
+  },
+  "keywords": [
+    "test",
+    "W3C",
+    "DID"
+  ],
+  "author": "Alfredo Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredolopez80/ghdid/issues"
+  },
+  "homepage": "https://github.com/alfredolopez80/ghdid#readme"
+}
